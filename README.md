@@ -6,9 +6,9 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | available | proxy count | updated every | url |
 |:---------:|:---------:|:-------------:|-----|
 | ✅ | 51 | 4h |https://raw.githubusercontent.com/wrfree/free/main/README.md|
-| ✅ | 253 | 6h |https://raw.githubusercontent.com/mianfeifq/share/main/README.md|
+| ✅ | 254 | 6h |https://raw.githubusercontent.com/mianfeifq/share/main/README.md|
 | ✅ | 20 | 1d |https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/README.md|
-| ✅ | 23 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
+| ✅ | 20 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
 | ✅ | 7597 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt|
 | ✅ | 200 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity|
 | ✅ | 117 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_base64.txt|
@@ -20,7 +20,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 2 | 2h |https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/ssr/ssrsub|
 | ✅ | 4 | 2h |https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/v2raysub|
 | ✅ | 877 | idk |https://bn-chanll.cf/sub/ss|
-| ✅ | 182 | 8h |https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray|
+| ✅ | 200 | 8h |https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray|
 | ✅ | 6 | idk |https://rentry.co/cyru55/raw|
 | ✅ | 129 | idk |https://freefq.neocities.org/free.txt|
 | ❌ | - | idk |https://proxy.yugogo.xyz/sip002/sub|
@@ -31,7 +31,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 967 | 1d |https://raw.githubusercontent.com/LonUp/NodeList/main/V2RAY/Latest_base64.txt|
 | ✅ | 1045 | 3h |https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num|
 | ✅ | 487 | 1h |https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt|
-| ✅ | 306 | 1h |https://raw.githubusercontent.com/ZywChannel/free/main/sub|
+| ✅ | 311 | 1h |https://raw.githubusercontent.com/ZywChannel/free/main/sub|
 | ✅ | 491 | 3h |https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt|
 | ✅ | 80 | 4h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
 | ✅ | 1629 | 8h |https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt|
@@ -43,5 +43,5 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 56 | idk |https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt|
 | ✅ | 243 | idk |https://raw.githubusercontent.com/RescueNet/TelegramFreeServer/main/base64/checked|
 | ✅ | 994 | idk |https://raw.githubusercontent.com/RescueNet/TelegramFreeServer/main/base64/reality|
-| ✅ | 148 | idk |https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mix_base64|
+| ✅ | 145 | idk |https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mix_base64|
 <!---| ✅ | 0 | 1h |https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt|-->
