@@ -8,7 +8,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 51 | 4h |https://raw.githubusercontent.com/wrfree/free/main/README.md|
 | ✅ | 261 | 6h |https://raw.githubusercontent.com/mianfeifq/share/main/README.md|
 | ✅ | 36 | 1d |https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/README.md|
-| ✅ | 5 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
+| ✅ | 6 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
 | ✅ | 7583 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt|
 | ✅ | 200 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity|
 | ✅ | 117 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_base64.txt|
@@ -31,7 +31,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 569 | 1d |https://raw.githubusercontent.com/LonUp/NodeList/main/V2RAY/Latest_base64.txt|
 | ✅ | 1190 | 3h |https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num|
 | ✅ | 534 | 1h |https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt|
-| ✅ | 359 | 1h |https://raw.githubusercontent.com/ZywChannel/free/main/sub|
+| ✅ | 365 | 1h |https://raw.githubusercontent.com/ZywChannel/free/main/sub|
 | ✅ | 538 | 3h |https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt|
 | ✅ | 92 | 4h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
 | ✅ | 1622 | 8h |https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt|
@@ -43,5 +43,5 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 66 | idk |https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt|
 | ✅ | 247 | idk |https://raw.githubusercontent.com/RescueNet/TelegramFreeServer/main/base64/checked|
 | ✅ | 1027 | idk |https://raw.githubusercontent.com/RescueNet/TelegramFreeServer/main/base64/reality|
-| ✅ | 150 | idk |https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mix_base64|
+| ✅ | 152 | idk |https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mix_base64|
 <!---| ✅ | 0 | 1h |https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt|-->
