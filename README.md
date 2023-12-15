@@ -9,7 +9,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 195 | 6h |https://raw.githubusercontent.com/mianfeifq/share/main/README.md|
 | ✅ | 38 | 1d |https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/README.md|
 | ✅ | 23 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
-| ✅ | 5721 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt|
+| ✅ | 5717 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt|
 | ✅ | 200 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity|
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_base64.txt|
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAir|
@@ -43,6 +43,6 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 50 | idk |https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt|
 | ❌ | - | idk |https://raw.githubusercontent.com/RescueNet/TelegramFreeServer/main/base64/checked|
 | ❌ | - | idk |https://raw.githubusercontent.com/RescueNet/TelegramFreeServer/main/base64/reality|
-| ✅ | 556 | idk |https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix|
+| ✅ | 574 | idk |https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix|
 | ❌ | - | idk |https://config.elaheniloofar.link|
 <!---| ✅ | 0 | 1h |https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt|-->
