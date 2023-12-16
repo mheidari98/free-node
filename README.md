@@ -29,10 +29,10 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ❌ | - | 1h |https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt|
 | ✅ | 906 | 1d |https://raw.githubusercontent.com/AlienVPN402/AlienVPN402-subscribe-servers-sing-box/main/index.html|
 | ✅ | 2047 | 1d |https://raw.githubusercontent.com/LonUp/NodeList/main/V2RAY/Latest_base64.txt|
-| ✅ | 572 | 3h |https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num|
-| ✅ | 243 | 1h |https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt|
+| ✅ | 625 | 3h |https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num|
+| ✅ | 247 | 1h |https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt|
 | ✅ | 156 | 1h |https://raw.githubusercontent.com/ZywChannel/free/main/sub|
-| ✅ | 277 | 3h |https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt|
+| ✅ | 227 | 3h |https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt|
 | ✅ | 69 | 4h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
 | ✅ | 490 | 8h |https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt|
 | ✅ | 209 | 12h |https://raw.githubusercontent.com/HakurouKen/free-node/main/public|
